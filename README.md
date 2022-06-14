@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns.
-Performing analysis on Kickstarter data to uncover trends
+Using Excel to performing an analysis on Kickstarter data to uncover trends to help Louise.
 ![Outcomes Based on Launch Date Lines with Markers Graph](https://user-images.githubusercontent.com/104862099/173704699-44dd80b1-aa62-499f-a57a-26ed01594208.png)
 ![Parent Category Outcomes Stacked Column Chart](https://user-images.githubusercontent.com/104862099/173704776-890e1b8a-bf92-4f4e-b03b-50204f48c753.png)
 I recommend Louise to:
